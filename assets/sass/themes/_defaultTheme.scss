@@ -1,0 +1,2 @@
+@use "../abstract/mixins" as mix;
+@include mix.themable(theme-1, #f7eb80, #497265, #82aa91, #fff, #bc6a49);

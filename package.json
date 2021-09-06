@@ -1,0 +1,28 @@
+{
+  "name": "sass-theming",
+  "version": "1.0.0",
+  "description": "Learning sass theming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-sass":"sass --watch ./assets/sass/main.scss ./assets/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashwary-Jharbade/SASS-Theming.git"
+  },
+  "keywords": [
+    "SASS",
+    "Theming",
+    "SASS-Theming"
+  ],
+  "author": "Ashwary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashwary-Jharbade/SASS-Theming/issues"
+  },
+  "homepage": "https://github.com/Ashwary-Jharbade/SASS-Theming#readme",
+  "dependencies": {
+    "sass": "^1.39.0"
+  }
+}
